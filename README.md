@@ -17,8 +17,7 @@ Automatically install all Kali linux tools
 - chmod +x /usr/bin/katoolin
 - sudo katoolin 
 
-# Video
-https://www.youtube.com/watch?v=8VxCWVoZEEE
+
 
 # Usage
 - Typing the number of a tool will install it
